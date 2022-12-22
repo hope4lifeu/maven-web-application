@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>andrew web appyy</finalName>
+		<finalName>andrew web appyyyy</finalName>
 		
 		<plugins>
 			<plugin>
