@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-appy</finalName>
+		<finalName>andrew web application</finalName>
 		
 		<plugins>
 			<plugin>
