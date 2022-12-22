@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>andrew web app</finalName>
+		<finalName>andrew web appyy</finalName>
 		
 		<plugins>
 			<plugin>
