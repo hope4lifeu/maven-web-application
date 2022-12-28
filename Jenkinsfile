@@ -10,7 +10,6 @@ pipeline{
         git "https://github.com/hope4lifeu/maven-web-application"
       }
     }
-    /*
     stage('3Test+Build'){
       steps{
         sh "echo 'running JUnit-test-cases' "
@@ -18,6 +17,7 @@ pipeline{
         sh "mvn clean package"
       }
     }
+    /*
     stage('4CodeQuality'){
       steps{
         sh "echo 'Perfoming CodeQualityAnalysis' "
